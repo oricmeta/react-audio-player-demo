@@ -29,9 +29,16 @@ export default [
     color: "#5f9fff",
   },
   {
-    title: "google drive",
+    title: "aws",
     artist: "DreamHeaven",
     audioSrc: "https://beardbarnmusicbucket.s3.amazonaws.com/The+Wild+Horse",
+    image: imgSrc3,
+    color: "#5f9fff",
+  },
+  {
+    title: "google drive",
+    artist: "DreamHeaven",
+    audioSrc: "https://drive.google.com/file/d/1PAbMCRwBB11ed9lM6LSkqTQsQms66LXj",
     image: imgSrc3,
     color: "#5f9fff",
   },
